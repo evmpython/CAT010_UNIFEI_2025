@@ -26,22 +26,25 @@
 
 ## 📊 Ementa da parte prática da disciplina
 
-| **AULA 1:** Plotagem de Imagens de Satélite |
+| **AULA 1:** Plotando Imagens de Satélite |
 | **AULA 3:** Plotagem de Imagens de Satélite |
 
 
 ---
 
-## 🛰️ Conteúdo Programático
+## 🛰️ Conteúdo Programático Detalhado
 
 ### Módulo 1: Plotagem de Imagens de Satélite
-- Processamento de imagens em projeção satélite (NOAA)
-- Geração de imagens em projeção retangular
-- Visualização de dados do INPE
-- Animações com canal infravermelho
-- Painéis de imagens multiespectrais
-- Integração com dados de relâmpagos
-- Rastreamento manual de tempestades
+- 1° Passo: Preparando o Ambiente para os scripts 1 ao 4
+- PARTE 1 - Projeção Satélite em Níveis de Cinza
+- PARTE 2 - Projeção Satélite Realçada
+- PARTE 3 - Projeção Retangular em Níveis de Cinza
+- PARTE 4 - Projeção Retangular Realçada
+- 2° Passo: Preparando o Ambiente para os Scripts 5 ao 8
+- PARTE 5 - Plotando os canais VIS, IR, WV com os dados do INPE - Individuais
+- PARTE 6 - lotando o canal IR + VIS + WV com os dados do INPE na forma de Painel
+- PARTE 7 - Plotando várias imagens do IR e criando animação
+- PARTE 8 - Plotando painel de imagens do IR
 
 ### Módulo 2: Análise de Precipitação por Satélite
 -	Conhecendo o produto MERGE  
@@ -55,25 +58,11 @@
 -	Série temporal do acumulado anual  
 -	Mapeando a precipitação para estados, municípios, bacias hidrográficas e uma latitude e longitude
 
-
-### Módulo 3: Índices de Vegetação com GEE
--	Mapas interativos com geemap
--	Conhecendo e calculando diversos índices de vegetação
--	Criando animações dos índices de vegetação para países, estados e municípios 
--	Mapas climatológicos
--	Explorando séries temporais   
-
-### Módulo Bônus: Trabalhando com dados do ERA5 na nuvem
--	Acesso aos dados do ERA5 em nuvem
-- Variáveis e níveis disponíveis
--	Aprendendo a plotar alguns mapas simples
--	Aprendendo a plotar série temporal para uma localidade
-
 ---
 
 ## 🎓 Público-Alvo
 
-Estudantes de Graduação e Pós-graduação em Meteorologia da Universidade Federal de Campina Grande (UFCG).
+Estudantes do Curso de Graduação em Ciências Atmosféricas da Universidade Federal de Itajubá (UNIFEI).
 
 ---
 > [!WARNING]
