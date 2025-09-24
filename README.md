@@ -44,16 +44,16 @@
 ## 🛰️ Conteúdo Programático Detalhado
 
 ### AULA 1: Plotando Imagens de Satélite
-- 1° Passo: Preparando o Ambiente para os scripts 1 ao 4
-- PARTE 1 - Projeção Satélite em Níveis de Cinza
-- PARTE 2 - Projeção Satélite Realçada
-- PARTE 3 - Projeção Retangular em Níveis de Cinza
-- PARTE 4 - Projeção Retangular Realçada
-- 2° Passo: Preparando o Ambiente para os Scripts 5 ao 8
-- PARTE 5 - Plotando os canais VIS, IR, WV com os dados do INPE - Individuais
-- PARTE 6 - lotando o canal IR + VIS + WV com os dados do INPE na forma de Painel
-- PARTE 7 - Plotando várias imagens do IR e criando animação
-- PARTE 8 - Plotando painel de imagens do IR
+- Preparando o Ambiente para os scripts 1 ao 4
+- Projeção Satélite em Níveis de Cinza
+- Projeção Satélite Realçada
+- Projeção Retangular em Níveis de Cinza
+- Projeção Retangular Realçada
+- Preparando o Ambiente para os Scripts 5 ao 8
+- Plotando os canais VIS, IR, WV com os dados do INPE - Individuais
+- Plotando o canal IR + VIS + WV com os dados do INPE na forma de Painel
+- Plotando várias imagens do IR e criando animação
+- Plotando painel de imagens do IR
 
 ### AULA 2: Realizando Classificação de Nuvens
 - Instalação de bibliotecas
