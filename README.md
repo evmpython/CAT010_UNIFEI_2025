@@ -18,10 +18,10 @@
 
 ---
 
-## 🎯 Objetivo do Curso
-<p align="justify"> São aulas práticas aplicando a linguagem Pythin para realizar o download, processamento e plotagens de dados provenientes de satélites meteorológicos. </p>
-
-
+## 🎯 Objetivo
+<p align="justify"> As aulas práticas tem como objetivo ensinar os alunos realizarem o download, processamento e plotagens de dados provenientes de satélites meteorológicos através da linguagem Python através do Google Colab. </p>
+  
+ 
 ---
 
 ## 📊 Ementa da Parte Prática da Disciplina
