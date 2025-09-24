@@ -1,7 +1,7 @@
 
 ---
 
-# Minicurso: *Processamento e Visualização de Imagens de Satélite, Dados de Precipitação e Índices de Vegetação com Python (PyVisSat)*
+# Disciplina CAT010 - Aplicações dos Satélites em Ciências Atmosféricas
 ---
 
 ### Ministrante: Prof. Dr. Enrique Vieira Mattos
@@ -15,13 +15,11 @@
 - **Data:** 26, 27 e 28 de novembro de 2025
 - **Horário:** 09:00 às 17:00 horas (com 2h de intervalo de almoço)
 - **Local:** Laboratório de Informática do Curso de Geografia - Sala XX / UFCG - Campina Grande (PB)
-- **Vagas disponíveis:** 40
-- **Carga Horária:** 15 horas
 
 ---
 
 ## 🎯 Objetivo do Curso
-<p align="justify"> Nos últimos anos o uso da linguagem de programação Python tem crescido rapidamente. Isso deve a sua facilidade de aprendizado, extensa aplicabilidade em diversas áreas científicas e comunidade fortemente atuante. Com isso, o uso do Python para pesquisas e operação nos setores públicos e privados de meteorologia tem ganhado bastante atenção. Nesse contexto, este curso tem como objetivo ensinar os alunos a processarem, visualizarem e analisarem as informações de imagens de satélite, precipitação e índices de vegetação através da linguagem Python. Os alunos aprenderão a trabalhar com as principais bibliotecas Python amplamente empregadas em meteorologia, como: Xarray, Pandas, Matplotlib, Cartopy, Ultraplot, Salem e Geemap. Em adição, os alunos aprenderão sobre a poderosa ferramenta de processanento e visualização de dados geoespaciais do Google denominada Google Earth Engine (GEE). Empregaremos essas bibliotecas e base de dados para produzir e analisar imagens de satélite, mapas e séries temporais de precipitação e índices de vegetação fornecidos por satélites. Com o aprendizado adquirido os alunos poderão gerar análises de forma rápida e interativa para qualquer estado e município do Brasil. </p>
+<p align="justify"> Aprender como baixar, processar e plotar dados proveniente de satélites meteorológicos </p>
 
 
 ---
@@ -95,14 +93,5 @@ Estudantes de Graduação e Pós-graduação em Meteorologia da Universidade Fed
 
 ---
 
-## 📁 Material do Curso
 
-Todo o material está disponível no GitHub:  
-[https://github.com/evmpython/Minicurso_UFCG_nov_2025](https://github.com/evmpython/Minicurso_UFCG_nov_2025)
 
----
-
-## 🏫 Instituições Envolvidas
-
-- **Universidade Federal de Itajubá (UNIFEI)**
-- **Universidade Federal de Campina Grande (UFCG)**
