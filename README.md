@@ -24,7 +24,7 @@
  
 ---
 
-## 📊 Ementa da Parte Prática da Disciplina
+## 📊 Ementa
 
 | Aula | Título |
 |------|--------|
