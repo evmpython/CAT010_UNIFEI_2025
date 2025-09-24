@@ -12,7 +12,7 @@
 ## 📋 Informações Gerais
 
 - **Formato:** Presencial
-- **Público alvo:** Alunos do sexto período do Curso de Graduação em Ciências Atmosféricas da Universidade Federal de Itajubá (UNIFEI).
+- **Público alvo:** Alunos do sexto período do Curso de Graduação em Ciências Atmosféricas da Universidade Federal de Itajubá (UNIFEI)
 - **Semestre:** Segundo semestre de 2025
 - **Local:**  Centro de Estudo e Previsão do Tempo de Minas Gerais (CEPreMG ) - IRN Bloco M3
 
