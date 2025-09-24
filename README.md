@@ -12,9 +12,9 @@
 ## 📋 Informações Gerais
 
 - **Formato:** Presencial
-- **Data:** 26, 27 e 28 de novembro de 2025
-- **Horário:** 09:00 às 17:00 horas (com 2h de intervalo de almoço)
-- **Local:** Laboratório de Informática do Curso de Geografia - Sala XX / UFCG - Campina Grande (PB)
+- **Público alvo:** Alunos do sexto período do Curso de Graduação em Ciências Atmosféricas da Universidade Federal de Itajubá (UNIFEI).
+- **Semestre:** Segundo semestre de 2025
+- **Local:**  Centro de Estudo e Previsão do Tempo de Minas Gerais (CEPreMG ) - IRN Bloco M3
 
 ---
 
