@@ -147,8 +147,11 @@ Estudantes do Curso de Graduação em Ciências Atmosféricas da Universidade Fe
 > [!TIP]
 > Conhecimento básico de Python (desejável)
 
-
 ---
+
+### 📧 Contato
+Para mais informações, entre em contato através do email: enrique@unifei.edu.br
+
 
 
 
