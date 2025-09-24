@@ -26,8 +26,6 @@
 
 ## 📊 Ementa da parte prática da disciplina
 
-| TEMA |
-|------|---------|:-------------:|--------|
 | **AULA 1:** Plotagem de Imagens de Satélite |
 | **AULA 3:** Plotagem de Imagens de Satélite |
 
