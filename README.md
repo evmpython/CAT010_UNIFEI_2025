@@ -24,16 +24,18 @@
 
 ---
 
-## 📊 Ementa da parte prática da disciplina
+## 📊 Ementa da Parte Prática da Disciplina
 
-| **AULA 1:** Plotando Imagens de Satélite |
-| **AULA 2:** Realizando Classificação de Nuvens |
-| **AULA 3:** Plotando Mapas de Precipitação do Produto MERGE |
-| **AULA 4:** Plotando Dados de Tempestadades do Fortracc |
-| **AULA 5:** Plotando e Analisando Relâmpagos Esitmados pelo Satélite GOES-16 |
-| **AULA 6:** Analisando Dados de ìndice de Vegetação (NDVI) |
-| **AULA 7:** Analisando Dados de Queimadas |
-| **AULA 8:** Trabalhando com Dados de Sondagens Estimadas por Satélite |
+| Aula | Título |
+|------|--------|
+| **AULA 1** | **Plotando Imagens de Satélite** |
+| **AULA 2** | **Realizando Classificação de Nuvens** |
+| **AULA 3** | **Plotando Mapas de Precipitação do Produto MERGE** |
+| **AULA 4** | **Plotando Dados de Tempestades do Fortracc** |
+| **AULA 5** | **Plotando e Analisando Relâmpagos Estimados pelo Satélite GOES-16** |
+| **AULA 6** | **Analisando Dados de Índice de Vegetação (NDVI)** |
+| **AULA 7** | **Analisando Dados de Queimadas** |
+| **AULA 8** | **Trabalhando com Dados de Sondagens Estimadas por Satélite** |
 
 
 
