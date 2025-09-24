@@ -19,7 +19,7 @@
 ---
 
 ## 🎯 Objetivo do Curso
-<p align="justify"> São aulas práticas aplicando a linguagem Pythin para realizar o download, processamento e plotagens de dados provenientes de satélites meteorológicos </p>
+<p align="justify"> São aulas práticas aplicando a linguagem Pythin para realizar o download, processamento e plotagens de dados provenientes de satélites meteorológicos. </p>
 
 
 ---
