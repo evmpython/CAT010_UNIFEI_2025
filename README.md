@@ -44,12 +44,12 @@
 ## 🛰️ Conteúdo Programático Detalhado
 
 ### AULA 1: Plotando Imagens de Satélite
-- Preparando o Ambiente para os scripts 1 ao 4
+- Preparando o Ambiente para os scripts seguintes
 - Projeção Satélite em Níveis de Cinza
 - Projeção Satélite Realçada
 - Projeção Retangular em Níveis de Cinza
 - Projeção Retangular Realçada
-- Preparando o Ambiente para os Scripts 5 ao 8
+- Preparando o Ambiente para os scripts seguintes
 - Plotando os canais VIS, IR, WV com os dados do INPE - Individuais
 - Plotando o canal IR + VIS + WV com os dados do INPE na forma de Painel
 - Plotando várias imagens do IR e criando animação
