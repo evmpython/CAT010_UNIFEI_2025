@@ -43,7 +43,7 @@
 
 ## 🛰️ Conteúdo Programático Detalhado
 
-### Módulo 1: Plotagem de Imagens de Satélite
+### AULA 1: Plotando Imagens de Satélite
 - 1° Passo: Preparando o Ambiente para os scripts 1 ao 4
 - PARTE 1 - Projeção Satélite em Níveis de Cinza
 - PARTE 2 - Projeção Satélite Realçada
@@ -55,17 +55,80 @@
 - PARTE 7 - Plotando várias imagens do IR e criando animação
 - PARTE 8 - Plotando painel de imagens do IR
 
-### Módulo 2: Análise de Precipitação por Satélite
--	Conhecendo o produto MERGE  
--	Mapa de precipitação horária 
--	Mapa de precipitação diária 
--	Mapa de precipitação mensal
--	Mapa de precipitação sazonal 
--	Mapa de precipitação anual  
--	Série temporal total mensal  
--	Série temporal média mensal  
--	Série temporal do acumulado anual  
--	Mapeando a precipitação para estados, municípios, bacias hidrográficas e uma latitude e longitude
+### AULA 2: Realizando Classificação de Nuvens
+- Instalação de bibliotecas
+- Download dos arquivos auxiliares
+- Monta o google drive
+- Define o caminho do google drive
+- Importação das bibliotecas
+- Baixa os dados de satélite
+- Plota as imagens da América do Sul do visível e infravermelho em forma de painel
+- Plota as imagens da área de recorte do visível e infravermelho em forma de painel
+- Plota gráfico de dispersão de temperatura versus refletância
+
+### AULA 3: Plotando Mapas de Precipitação do Produto MERGE
+- Instalação de bibliotecas
+- Monta o google drive
+- Define o caminho do google drive
+- Importação das bibliotecas
+- Precipitação por hora
+- Precipitação por dia
+- Precipitação por mês
+- Climatologia
+
+### AULA 4: Plotando Dados de Tempestades do Fortracc
+- Instalação de bibliotecas
+- Monta o google drive
+- Define o caminho do google drive
+- Importação das bibliotecas
+- Análise da evolução mensal de tempestades
+- Calculando a quantitade sazonal de tempestades
+- Análise da evolução diurna de tempestades
+- Evolução do ciclo de vida da área das tempestades
+- Evolução do ciclo de vida da temperatura das tempestades
+
+### AULA 5: Plotando e Analisando Relâmpagos Estimados pelo Satélite GOES-16
+- Instalação de bibliotecas
+- Download de arquivos auxiliares
+- Monta o google drive
+- Define o caminho do google drive
+- Importação das bibliotecas
+- Define funções
+- Conhecendo os dados de relâmpagos a cada 20 s do sensor GLM
+- Combinando imagem de satélite com flashes: América do Sul
+- Combinando imagem de satélite com flashes: Área com recorte
+- Faz animação das imagens combinadas de satélite e flashes: Área com recorte
+- Combinando imagem de satélite com eventos, grupos e flashes: Área com recorte
+
+### AULA 6: Analisando Dados de Índice de Vegetação (NDVI)
+- Inicializando o GEE
+- Mapas Interativos com Geemap
+- Carregando os Dados no Google Earth Engine (GEE)
+- Plotando Mapa Interativo com Dados
+- Fazendo Animações
+- Mapas Climatológicos
+- Séries Temporais
+
+### AULA 7: Analisando Dados de Queimadas
+- Instalação de bibliotecas
+- Monta o google drive
+- Define o caminho do google drive
+- Importação das bibliotecas
+- Mapas Interativos
+- Mapa de Densidade
+- Séries Temporais
+
+### AULA 8: Trabalhando com Dados de Sondagens Estimadas por Satélite
+- Instalação da biblioteca Siphon
+- Monta o google drive
+- Define o caminho do google drive
+- Importação das bibliotecas
+- Insere data da radiossondagem
+- Baixa os dados de radiossondagem
+- Plota o perfil de temperatura da radiossondagem
+- Plota o perfil de temperatura do satélite
+- Plota o perfil de comparação da temperatura observada e satélite
+- Calculando a temperatura média de uma camada
 
 ---
 
