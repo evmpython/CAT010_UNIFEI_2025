@@ -24,15 +24,13 @@
 
 ---
 
-## 📊 Ementa do Curso
+## 📊 Ementa da parte prática da disciplina
 
 | Data | Horário | Carga Horária | Módulo |
 |------|---------|:-------------:|--------|
-| 26/nov | 14:00-17:00 | 3h | **Módulo 1:** Plotagem de Imagens de Satélite |
-| 27/nov | 09:00-12:00 | 3h | Plantão de Dúvidas + Apresentação de atividades pelos alunos |
-| 27/nov | 14:00-17:00 | 3h | **Módulo 2:** Mapas e Séries Temporais de Precipitação |
-| 28/nov | 09:00-12:00 | 3h | Plantão de Dúvidas + Apresentação de atividades pelos alunos |
-| 28/nov | 14:00-17:00 | 3h | **Módulo 3:** Índices de Vegetação com Google Earth Engine |
+| **AULA 1:** Plotagem de Imagens de Satélite |
+| **AULA 3:** Plotagem de Imagens de Satélite |
+
 
 ---
 
